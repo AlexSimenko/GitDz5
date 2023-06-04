@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Hello Git!");
         System.out.println("reset Hard");
+        System.out.println("Execute squash commits");
     }
 }
