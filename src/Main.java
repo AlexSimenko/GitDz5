@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Execute squash commits");
 
         System.out.println("пункт 3 дз. зробити зміни в другій гілці та запушити");
+        System.out.println("окрема гілка ");
+
     }
 }
